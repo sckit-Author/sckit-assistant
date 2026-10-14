@@ -1,2 +1,2 @@
-schema_version	assistant_id	sckit_version	assistant_version	release_tag	file	sha256	date	desc
-v00.00.01	ASSIST00000001	v0.0.1	2026.01.01.1	sckit-v0.0.1-assistant-2026.01.01.1	sckit_assistant.md	56e3c5aa6cbbc29bbfbac5059bde309728c7d24e63195d56addbcb5d5c3601d7	2026-01-01	Assistant manual for sckit v0.0.1
+Assistant_version	sckit_version	release_tag	file	sha256	date	desc
+v00000001	v0.0.1	v0.0.1-v00000001	sckit_assistant.md	56e3c5aa6cbbc29bbfbac5059bde309728c7d24e63195d56addbcb5d5c3601d7	2026-01-01	Assistant manual for sckit v0.0.1
