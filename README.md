@@ -7,18 +7,10 @@ Official assistant documentationas a user manual and as reference material for A
 ```text
 sckit-assistant/
 ├── README.md
-├── manifest.json
-└── assistant/
-    └── sckit_assistant.md
+└── assistant.tsv
 ```
 
 ## Assistant Document
-
-The main assistant document is:
-
-```text
-assistant/sckit_assistant.md
-```
 
 This file is intended to provide structured documentation for sckit, including:
 
