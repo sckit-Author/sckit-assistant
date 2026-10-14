@@ -7,8 +7,8 @@ Official assistant documentationas a user manual and as reference material for A
 ## Available assistant versions
 
 | sckit version | Assistant version | File | Date | Description |
-|---|---|---|---|---|---|
-| v0.0.1 | 2026.01.01.1 |  `sckit_assistant.md` | 2026-01-01 | Assistant manual for sckit v0.0.1 |
+|---|---|---|---|---|
+| v0.0.1 | 2026.01.01.1 | `sckit_assistant.md` | 2026-01-01 | Assistant manual for sckit v0.0.1 |
 
 ---
 
