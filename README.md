@@ -2,6 +2,16 @@
 
 Official assistant documentationas a user manual and as reference material for AI assistants or local language models that provide guidance for sckit users.
 
+---
+
+## Available assistant versions
+
+| sckit version | Assistant version | Release tag | File | Date | Description |
+|---|---|---|---|---|---|
+| v0.0.1 | 2026.01.01.1 | `sckit-v0.0.1-assistant-2026.01.01.1` | `sckit_assistant.md` | 2026-01-01 | Assistant manual for sckit v0.0.1 |
+
+---
+
 ## Repository Structure
 
 ```text
